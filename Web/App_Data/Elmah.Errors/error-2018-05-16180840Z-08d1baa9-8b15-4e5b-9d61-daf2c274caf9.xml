@@ -1,0 +1,165 @@
+﻿<error errorId="08d1baa9-8b15-4e5b-9d61-daf2c274caf9" application="/LM/W3SVC/2/ROOT" host="落叶の私人SDK" type="System.Web.HttpException" message="未找到路径“/content/icon/menu@2x.png”的控制器或该控制器未实现 IController。" source="System.Web.Mvc" detail="System.Web.HttpException (0x80004005): 未找到路径“/content/icon/menu@2x.png”的控制器或该控制器未实现 IController。&#xD;&#xA;   在 System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)&#xD;&#xA;   在 System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)&#xD;&#xA;   在 System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController&amp; controller, IControllerFactory&amp; factory)&#xD;&#xA;   在 System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)&#xD;&#xA;   在 System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)&#xD;&#xA;   在 System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)&#xD;&#xA;   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()&#xD;&#xA;   在 System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)&#xD;&#xA;   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean&amp; completedSynchronously)" user="a31ee683-424f-463e-9cf7-8edcc12d605f,09e7c1ff-aaa7-42fe-910a-b92394b648a8" time="2018-05-16T18:08:40.8750132Z" statusCode="404">
+  <serverVariables>
+    <item name="ALL_HTTP">
+      <value string="HTTP_CONNECTION:Keep-Alive&#xD;&#xA;HTTP_ACCEPT:image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5&#xD;&#xA;HTTP_ACCEPT_ENCODING:gzip, deflate&#xD;&#xA;HTTP_ACCEPT_LANGUAGE:zh-CN&#xD;&#xA;HTTP_COOKIE:mpms 2.0=BAF1880C2BD5DF819728B61FAA29F30D3180AD34334687C0641337F0AC19AD7481CC70B8EB7C84B97D41A038D9400899C59675EA2C2B64EDD1A77A87F2617A6AB42C17835F2A5CD2A2CAAC51236EA0649B4FAA55ACE3E76AED92FEDEE15F5A7BB98EBC77F486B9F1EB0928F3BE399EA89ED475077BB29AB932840B01C41165FB003FBD7B0C778288638577CCC99F975F66326A8DF9834C62C75B03D8A82597E738361FEEA73D5F22E5CC41FD209973C7998FC2E3C95BFC36729F3A5DA7D6AEC694CD5332E0F49661C6B28BCDEADF77A6327A22EFBBD052E702C5626D3B49A3C2976050DFD69252E7A2D138C8861EB11F1D2E2C7643958A6E0734581E2B4178394986B4D6A85F9C28BC8FC382D812E5EA&#xD;&#xA;HTTP_HOST:localhost:46648&#xD;&#xA;HTTP_REFERER:http://localhost:46648/Platform&#xD;&#xA;HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko&#xD;&#xA;HTTP_DNT:1&#xD;&#xA;" />
+    </item>
+    <item name="ALL_RAW">
+      <value string="Connection: Keep-Alive&#xD;&#xA;Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5&#xD;&#xA;Accept-Encoding: gzip, deflate&#xD;&#xA;Accept-Language: zh-CN&#xD;&#xA;Cookie: mpms 2.0=BAF1880C2BD5DF819728B61FAA29F30D3180AD34334687C0641337F0AC19AD7481CC70B8EB7C84B97D41A038D9400899C59675EA2C2B64EDD1A77A87F2617A6AB42C17835F2A5CD2A2CAAC51236EA0649B4FAA55ACE3E76AED92FEDEE15F5A7BB98EBC77F486B9F1EB0928F3BE399EA89ED475077BB29AB932840B01C41165FB003FBD7B0C778288638577CCC99F975F66326A8DF9834C62C75B03D8A82597E738361FEEA73D5F22E5CC41FD209973C7998FC2E3C95BFC36729F3A5DA7D6AEC694CD5332E0F49661C6B28BCDEADF77A6327A22EFBBD052E702C5626D3B49A3C2976050DFD69252E7A2D138C8861EB11F1D2E2C7643958A6E0734581E2B4178394986B4D6A85F9C28BC8FC382D812E5EA&#xD;&#xA;Host: localhost:46648&#xD;&#xA;Referer: http://localhost:46648/Platform&#xD;&#xA;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko&#xD;&#xA;DNT: 1&#xD;&#xA;" />
+    </item>
+    <item name="APPL_MD_PATH">
+      <value string="/LM/W3SVC/2/ROOT" />
+    </item>
+    <item name="APPL_PHYSICAL_PATH">
+      <value string="C:\Users\落葉の私人SDK\Desktop\CUTOA\Web\" />
+    </item>
+    <item name="AUTH_TYPE">
+      <value string="Forms" />
+    </item>
+    <item name="AUTH_USER">
+      <value string="a31ee683-424f-463e-9cf7-8edcc12d605f,09e7c1ff-aaa7-42fe-910a-b92394b648a8" />
+    </item>
+    <item name="AUTH_PASSWORD">
+      <value string="*****" />
+    </item>
+    <item name="LOGON_USER">
+      <value string="" />
+    </item>
+    <item name="REMOTE_USER">
+      <value string="a31ee683-424f-463e-9cf7-8edcc12d605f,09e7c1ff-aaa7-42fe-910a-b92394b648a8" />
+    </item>
+    <item name="CERT_COOKIE">
+      <value string="" />
+    </item>
+    <item name="CERT_FLAGS">
+      <value string="" />
+    </item>
+    <item name="CERT_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SERIALNUMBER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CERT_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CONTENT_LENGTH">
+      <value string="0" />
+    </item>
+    <item name="CONTENT_TYPE">
+      <value string="" />
+    </item>
+    <item name="GATEWAY_INTERFACE">
+      <value string="CGI/1.1" />
+    </item>
+    <item name="HTTPS">
+      <value string="off" />
+    </item>
+    <item name="HTTPS_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_ID">
+      <value string="2" />
+    </item>
+    <item name="INSTANCE_META_PATH">
+      <value string="/LM/W3SVC/2" />
+    </item>
+    <item name="LOCAL_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="PATH_INFO">
+      <value string="/content/icon/menu@2x.png" />
+    </item>
+    <item name="PATH_TRANSLATED">
+      <value string="C:\Users\落葉の私人SDK\Desktop\CUTOA\Web\content\icon\menu@2x.png" />
+    </item>
+    <item name="QUERY_STRING">
+      <value string="" />
+    </item>
+    <item name="REMOTE_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_HOST">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_PORT">
+      <value string="49569" />
+    </item>
+    <item name="REQUEST_METHOD">
+      <value string="GET" />
+    </item>
+    <item name="SCRIPT_NAME">
+      <value string="/content/icon/menu@2x.png" />
+    </item>
+    <item name="SERVER_NAME">
+      <value string="localhost" />
+    </item>
+    <item name="SERVER_PORT">
+      <value string="46648" />
+    </item>
+    <item name="SERVER_PORT_SECURE">
+      <value string="0" />
+    </item>
+    <item name="SERVER_PROTOCOL">
+      <value string="HTTP/1.1" />
+    </item>
+    <item name="SERVER_SOFTWARE">
+      <value string="Microsoft-IIS/10.0" />
+    </item>
+    <item name="URL">
+      <value string="/content/icon/menu@2x.png" />
+    </item>
+    <item name="HTTP_CONNECTION">
+      <value string="Keep-Alive" />
+    </item>
+    <item name="HTTP_ACCEPT">
+      <value string="image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5" />
+    </item>
+    <item name="HTTP_ACCEPT_ENCODING">
+      <value string="gzip, deflate" />
+    </item>
+    <item name="HTTP_ACCEPT_LANGUAGE">
+      <value string="zh-CN" />
+    </item>
+    <item name="HTTP_COOKIE">
+      <value string="mpms 2.0=BAF1880C2BD5DF819728B61FAA29F30D3180AD34334687C0641337F0AC19AD7481CC70B8EB7C84B97D41A038D9400899C59675EA2C2B64EDD1A77A87F2617A6AB42C17835F2A5CD2A2CAAC51236EA0649B4FAA55ACE3E76AED92FEDEE15F5A7BB98EBC77F486B9F1EB0928F3BE399EA89ED475077BB29AB932840B01C41165FB003FBD7B0C778288638577CCC99F975F66326A8DF9834C62C75B03D8A82597E738361FEEA73D5F22E5CC41FD209973C7998FC2E3C95BFC36729F3A5DA7D6AEC694CD5332E0F49661C6B28BCDEADF77A6327A22EFBBD052E702C5626D3B49A3C2976050DFD69252E7A2D138C8861EB11F1D2E2C7643958A6E0734581E2B4178394986B4D6A85F9C28BC8FC382D812E5EA" />
+    </item>
+    <item name="HTTP_HOST">
+      <value string="localhost:46648" />
+    </item>
+    <item name="HTTP_REFERER">
+      <value string="http://localhost:46648/Platform" />
+    </item>
+    <item name="HTTP_USER_AGENT">
+      <value string="Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko" />
+    </item>
+    <item name="HTTP_DNT">
+      <value string="1" />
+    </item>
+  </serverVariables>
+  <cookies>
+    <item name="mpms 2.0">
+      <value string="BAF1880C2BD5DF819728B61FAA29F30D3180AD34334687C0641337F0AC19AD7481CC70B8EB7C84B97D41A038D9400899C59675EA2C2B64EDD1A77A87F2617A6AB42C17835F2A5CD2A2CAAC51236EA0649B4FAA55ACE3E76AED92FEDEE15F5A7BB98EBC77F486B9F1EB0928F3BE399EA89ED475077BB29AB932840B01C41165FB003FBD7B0C778288638577CCC99F975F66326A8DF9834C62C75B03D8A82597E738361FEEA73D5F22E5CC41FD209973C7998FC2E3C95BFC36729F3A5DA7D6AEC694CD5332E0F49661C6B28BCDEADF77A6327A22EFBBD052E702C5626D3B49A3C2976050DFD69252E7A2D138C8861EB11F1D2E2C7643958A6E0734581E2B4178394986B4D6A85F9C28BC8FC382D812E5EA" />
+    </item>
+  </cookies>
+</error>
